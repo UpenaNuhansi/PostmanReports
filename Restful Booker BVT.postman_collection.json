@@ -1135,7 +1135,7 @@
 							"    pm.response.to.be.success;",
 							"});",
 							"",
-							"potman.setNextRequest(null);"
+							"postman.setNextRequest(null);"
 						],
 						"type": "text/javascript",
 						"packages": {},
